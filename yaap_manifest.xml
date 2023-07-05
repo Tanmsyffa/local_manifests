@@ -12,7 +12,7 @@
 	<project path="vendor/xiaomi/fog" name="vendor_xiaomi_fog" remote="ep" revision="thirteen"/>
 	<project path="device/xiaomi/fog-kernel" name="device_xiaomi_fog-kernel" remote="ep" revision="13"/>
 	<project path="kernel/xiaomi/fog" name="kernel_xiaomi_sm6225-header" remote="ep" revision="thirteen"/>
-	<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="aros" revision="thirteen"/>
+	<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="aros" revision="arrow-13.1"/>
 	<project path="device/qcom/sepolicy_vndr-legacy-um" name="device_qcom_sepolicy_vndr-legacy-um" remote="pixlex" revision="thirteen"/>
 
 </manifest>
